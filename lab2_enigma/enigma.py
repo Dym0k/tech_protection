@@ -79,7 +79,7 @@ print(f"Розшифроване повідомлення: {dec_result}")
 cipher_text = "PQSACVVTOISXFXCIAMQEM"
 decode_shift = 9
 
-# Виклик функції для повернення оригіналу
+# Виклик функції для повернення ор`игіналу
 decoded_result = enigma_simulator("DECODE", decode_shift, rotors_list, cipher_text)
 
 # Вивід результату в консоль
