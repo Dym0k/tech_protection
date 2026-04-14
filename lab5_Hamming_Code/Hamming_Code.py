@@ -78,3 +78,4 @@ if __name__ == "__main__":
     restored_text = decode(damaged_bits_str)
     print(f"Декодування пошкоджених даних: '{restored_text}'")
     
+
